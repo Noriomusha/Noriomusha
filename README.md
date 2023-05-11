@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![image](https://github.com/Noriomusha/Noriomusha/assets/7958905/92ec1a9c-3964-4a90-b24e-64273c61eb16)
-
+** Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Docker | Mobile Developer **
 <!--
 **Noriomusha/Noriomusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
