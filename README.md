@@ -4,8 +4,12 @@
 <br></br>
 <b>Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Docker | Mobile Developer</b>
 <br></br>
+<p style="text-align:center;">
+<a href="https://edwardialvarado.wixsite.com/home">
+<img src=/images/img.png></img>
+</a>
+</p>
 
-<a href="https://edwardialvarado.wixsite.com/home" target="_blank"><img src="[https://plus.unsplash.com/premium_photo-1673688152102-b24caa6e8725?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80]" /></a>
 
 <p align="center">I believe Open Source is for EVERYONE</p>
 <p align="center">🔭 I’m currently working on RuneLite updates!</p>
