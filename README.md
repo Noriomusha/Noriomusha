@@ -1,21 +1,21 @@
+  ![image](https://github.com/Noriomusha/Noriomusha/assets/7958905/56b367d4-c420-45aa-940d-27f1f87a7903)
+<div align="center">
+  <b>Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Docker | Mobile Developer</b>
+  <br></br>
+</div>
 
-![image](https://github.com/Noriomusha/Noriomusha/assets/7958905/56b367d4-c420-45aa-940d-27f1f87a7903)
-
-<br></br>
-<b>Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Docker | Mobile Developer</b>
-<br></br>
 <p style="text-align:center;">
 <a href="https://edwardialvarado.wixsite.com/home">
 <img src=/images/Banner.png></img>
 </a>
 </p>
 
-
-<p align="center">I believe Open Source is for EVERYONE</p>
-<p align="center">🔭 I’m currently working on RuneLite updates!</p>
-
-
+<div align="center">
+  <p>I believe Open Source is for EVERYONE</p>
+<p>🔭 I’m currently working on RuneLite updates!</p>
 <p>📫 All my social links in one place... https://linktr.ee/noriomusha</p>
+</div>
+
 
 
 <!--
