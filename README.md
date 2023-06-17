@@ -6,7 +6,7 @@
 <br></br>
 <p style="text-align:center;">
 <a href="https://edwardialvarado.wixsite.com/home">
-<img src=/images/banner.png></img>
+<img src=/images/Banner.png></img>
 </a>
 </p>
 
