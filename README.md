@@ -1,6 +1,7 @@
-  ![image](https://github.com/Noriomusha/Noriomusha/assets/7958905/56b367d4-c420-45aa-940d-27f1f87a7903)
 <div align="center">
-  <b>Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Docker | Mobile Developer</b>
+  <img href="https://edwardialvarado.wixsite.com/home" src=/images/caffeine.png />
+  <br></br>
+  <b>Software Engineer | Project Manager | Problem Solver | Full Stack | Systems | Java | Python | JavaScript | React | Mobile Developer</b>
   <br></br>
 </div>
 
