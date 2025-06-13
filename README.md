@@ -1,7 +1,7 @@
 <div align="center">
   <img href="https://edwardialvarado.wixsite.com/home" src=/images/caffeine.png />
   <br></br>
-  <b>Software Engineer | Project Manager | Problem Solver | Java | Python | JavaScript | React | Mobile Developer</b>
+  <b>Software Engineer | Project Manager | Problem Solver | Java | Python | JavaScript | TypeScript | React | Mobile Developer</b>
   <br></br>
 </div>
 
