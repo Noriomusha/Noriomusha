@@ -13,6 +13,7 @@
 
 <div align="center">
   <p>I believe Open Source is for EVERYONE</p>
+  <p>🔭 Software Engineer at Solstice Innovations Inc.</p>
 <p>🔭 I’m currently working on RuneLite updates!</p>
 <p>📫 All my social links in one place... https://linktr.ee/noriomusha</p>
 </div>
