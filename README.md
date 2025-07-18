@@ -1,12 +1,12 @@
 <div align="center">
-  <img href="https://edwardialvarado.wixsite.com/home" src=/images/caffeine.png />
+  <img href="https://github.com/Noriomusha/" src=/images/caffeine.png />
   <br></br>
   <b>Software Engineer | Project Manager | Problem Solver | Java | Python | JavaScript | TypeScript | React | Mobile Developer</b>
   <br></br>
 </div>
 
 <p style="text-align:center;">
-<a href="https://edwardialvarado.wixsite.com/home">
+<a href="https://github.com/Noriomusha/">
 <img src=/images/Banner.png></img>
 </a>
 </p>
